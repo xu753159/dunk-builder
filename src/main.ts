@@ -1,2 +1,2 @@
 const add ='A'
-console.log(add)
+console.log(b)

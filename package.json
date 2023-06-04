@@ -4,7 +4,8 @@
   "description": "基于webapck前端一体式构建工具",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint --cache --ext .ts src/**"
   },
   "bin": {
     "dunk": "bin/dunk.js"
