@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "eslint": "eslint --cache --ext .ts src/**"
+    "eslint": "eslint  src/**"
   },
   "bin": {
     "dunk": "bin/dunk.js"
