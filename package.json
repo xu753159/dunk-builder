@@ -1,0 +1,32 @@
+{
+  "name": "dunk-builder",
+  "version": "1.0.0",
+  "description": "基于webapck前端一体式构建工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "dunk": "bin/dunk.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xu753159/dunk-builder.git"
+  },
+  "keywords": [],
+  "author": "1328931645@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xu753159/dunk-builder/issues"
+  },
+  "homepage": "https://github.com/xu753159/dunk-builder#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^17.6.5",
+    "@commitlint/config-conventional": "^17.6.5",
+    "@typescript-eslint/eslint-plugin": "^5.59.8",
+    "@typescript-eslint/parser": "^5.59.8",
+    "eslint": "^8.42.0",
+    "husky": "^8.0.3"
+  }
+}
