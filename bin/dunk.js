@@ -1,3 +1,2 @@
 #!/usr/bin/env node
-import { a } from '../index.js';
-console.log(a);
+import '../dist/es/main.js';
